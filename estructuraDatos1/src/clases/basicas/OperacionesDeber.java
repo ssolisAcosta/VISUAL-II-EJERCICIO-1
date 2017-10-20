@@ -14,4 +14,10 @@ public class OperacionesDeber {
         }
         System.out.println(i);
     }
+     public static void metodo2(){
+        boolean b=(true&&!false)?
+                false:true;
+         System.out.println(b);
+    }
+     
 }

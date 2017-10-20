@@ -9,6 +9,7 @@ import clases.basicas.OperacionesDeber;
 public class Aplicacion {
     public static void main(String[] args) {
         OperacionesDeber.metodo1();
+        OperacionesDeber.metodo2();
         
     }
            
